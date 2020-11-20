@@ -1,0 +1,64 @@
+html {
+  text-align: center;
+}
+.card {
+  padding: 10px;
+  display: inline-block;
+  margin: 0px auto;
+  text-align: center;
+}
+
+.outerDiv {
+  border-radius: 25px;
+  color: white;
+  border: solid black;
+  box-shadow: 10px 10px yellow;
+  background-color: rgb(117, 52, 117);
+  text-align: center;
+  padding: 12px;
+}
+.smokee {
+  width: 300px;
+  height: 200px;
+}
+.cardTitle {
+  font-family: "Courier New", Courier, monospace;
+  margin: 5px;
+  color: white;
+}
+.innerFacts {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-align: left;
+  border: solid 2px darkgray;
+  width: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.interestingFact {
+  margin: 10px;
+  font-style: italic;
+}
+.description {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  padding: 10px;
+  text-align: left;
+  text-transform: capitalize;
+  font-size: small;
+}
+
+.stats {
+  font-family: "Courier New", Courier, monospace;
+  list-style-type: none;
+  margin: 10px;
+  text-align: left;
+  padding-left: 0;
+}
+.facts {
+  float: left;
+  text-align: left;
+}
+.factsRight {
+  float: right;
+  text-align: right;
+}
